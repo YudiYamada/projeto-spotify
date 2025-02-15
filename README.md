@@ -2,7 +2,7 @@
 
 Este projeto é um exemplo de um clone do Spotify utilizando React e Vite para o front-end e Node.js com Express para o back-end. Ele permite aos usuários visualizar listas de artistas e músicas, tocar músicas e navegar entre os detalhes dos artistas e músicas.
 
-<!-- ## [Vizualize o projeto clicando aqui]() ## -->
+## [Vizualize o projeto clicando aqui](https://projeto-spotify-vxmp.onrender.com) ##
 
 ## Índice
 
