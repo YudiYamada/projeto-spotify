@@ -61,7 +61,7 @@ Para instalar e rodar este projeto localmente, siga estas etapas:
     npm start
     ```
 
-Abra [http://localhost:3000](http://localhost:3000) para ver o projeto no navegador.
+Abra [http://localhost:3001/api](http://localhost:3001/api) para ver o projeto no navegador.
 
 ## Tecnologias Utilizadas
 
@@ -86,7 +86,4 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs 
 
 ---
 
-Feito por [Seu Nome](https://github.com/YudiYamada)
-```
-
-Se precisar de mais alguma coisa ou quiser fazer ajustes, me avise! 😄
+Feito por [Yudi Yamada](https://github.com/YudiYamada)

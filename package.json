@@ -1,0 +1,22 @@
+{
+  "name": "projeto-spotify",
+  "version": "1.0.0",
+  "description": "Este projeto é um exemplo de um clone do Spotify utilizando React e Vite para o front-end e Node.js com Express para o back-end. Ele permite aos usuários visualizar listas de artistas e músicas, tocar músicas e navegar entre os detalhes dos artistas e músicas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm run start --prefix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YudiYamada/projeto-spotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YudiYamada/projeto-spotify/issues"
+  },
+  "homepage": "https://github.com/YudiYamada/projeto-spotify#readme"
+}
